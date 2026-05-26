@@ -22,11 +22,10 @@
 ### 🔗 Connect · 연락하기
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌊_포트폴리오_·_Portfolio-E9D5FF?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BFDBFE?style=for-the-badge&logo=linkedin&logoColor=555)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/이메일_·_Email-FBCFE8?style=for-the-badge&logo=gmail&logoColor=555)](mailto:your@email.com)
-
+  
+[![Phone](https://img.shields.io/badge/📞_010--8464--6539-C8FFD4?style=for-the-badge)](tel:01000000000)
+[![Email](https://img.shields.io/badge/이메일_·_Email-FBCFE8?style=for-the-badge&logo=gmail&logoColor=555)](mailto:cjfwls39@naver.com)
+ 
 </div>
 
 ---
