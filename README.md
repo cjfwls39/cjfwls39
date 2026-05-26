@@ -30,44 +30,52 @@
 
 ---
 
-### 🌸 Featured Projects · 프로젝트
+### 🌸 Projects · 프로젝트
 
-| 🔷 프로젝트 | 📝 설명 | 🛠 스택 |
-|:---:|:---|:---|
-| **TradeEvo** | 자체 AI 모델이 탑재된 실시간 비트코인 트레이딩 앱 <br/> Real-time Bitcoin trading app with self-trained AI | Tauri · PyTorch · Next.js · Redis |
-| **3D Portfolio** | 바다 위 떠있는 이소메트릭 방 포트폴리오 <br/> Interactive isometric room on a floating ship | React Three Fiber · Three.js · Next.js |
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌊__포트폴리오_구경하기_·_Visit_my_Portfolio_→-C4B5FD?style=for-the-badge&logoColor=white)](https://your-portfolio.com)
+
+</div>
 
 ---
 
 ### 💜 Tech Stack · 기술 스택
-
+ 
 <div align="center">
-
+  
+**Frontend**
+ 
+![HTML5](https://img.shields.io/badge/HTML5-FFD6EC?style=for-the-badge&logo=html5&logoColor=555)
+![CSS3](https://img.shields.io/badge/CSS3-C9B8FF?style=for-the-badge&logo=css3&logoColor=555)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-B8F0FF?style=for-the-badge&logo=tailwindcss&logoColor=555)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF3B8?style=for-the-badge&logo=javascript&logoColor=555)
+![TypeScript](https://img.shields.io/badge/TypeScript-B8D4FF?style=for-the-badge&logo=typescript&logoColor=555)
+ 
+**Frameworks & Libraries**
+ 
+![React](https://img.shields.io/badge/React-C9B8FF?style=for-the-badge&logo=react&logoColor=555)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-C9B8FF?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-B8D4FF?style=for-the-badge&logo=typescript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-FFD6EC?style=for-the-badge&logo=python&logoColor=555)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFB8B8?style=for-the-badge&logo=pytorch&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-B8D4FF?style=for-the-badge&logo=electron&logoColor=555)
 ![Tauri](https://img.shields.io/badge/Tauri-B8F0FF?style=for-the-badge&logo=tauri&logoColor=555)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C8D8FF?style=for-the-badge&logo=postgresql&logoColor=555)
-
+ 
+**DevOps**
+ 
+![AWS](https://img.shields.io/badge/AWS-FFE4B8?style=for-the-badge&logo=amazonwebservices&logoColor=555)
+![Render](https://img.shields.io/badge/Render-C8FFD4?style=for-the-badge&logo=render&logoColor=555)
+ 
+**Backend**
+ 
+![Java](https://img.shields.io/badge/Java-FFD6EC?style=for-the-badge&logo=openjdk&logoColor=555)
+![Spring](https://img.shields.io/badge/Spring-C8FFD4?style=for-the-badge&logo=spring&logoColor=555)
+![JSP](https://img.shields.io/badge/JSP-FFF3B8?style=for-the-badge&logo=openjdk&logoColor=555)
+![MySQL](https://img.shields.io/badge/MySQL-C8D8FF?style=for-the-badge&logo=mysql&logoColor=555)
+ 
 </div>
 
 ---
 
-### 📊 GitHub Stats · 깃허브 통계
-
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjfwls39&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=C4B5FD&text_color=6B7280)
-  &nbsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfwls39&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=6B7280)
-
-</div>
-
----
 
 ### 🔗 Connect · 연락하기
 
