@@ -61,9 +61,9 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=C4B5FD&text_color=6B7280)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjfwls39&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=C4B5FD&text_color=6B7280)
   &nbsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=6B7280)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjfwls39&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=6B7280)
 
 </div>
 
