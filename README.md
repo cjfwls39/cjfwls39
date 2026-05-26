@@ -10,25 +10,6 @@
 
 ---
 
-### ✨ About Me · 소개
-
-```
-🖥️  AI와 실제 UX를 잇는 데스크탑 & 웹 앱을 만들어요
-     Building desktop & web apps where AI meets real UX
-
-🎨  디자인도 코드의 일부 — 미적 감각을 놓지 않아요
-     Design-obsessed — aesthetics is part of the code
-
-🤖  스스로 개선되는 AI 트레이딩 모델을 훈련 중이에요 (SL → RL)
-     Training a self-improving AI trading model (SL → RL)
-
-🌊  바다 위 떠있는 3D 이소메트릭 포트폴리오를 만들고 있어요
-     Crafting a 3D isometric portfolio floating on the ocean
-
-📍  서울 / Seoul, Korea
-```
-
----
 
 ### 🌸 Projects · 프로젝트
 
