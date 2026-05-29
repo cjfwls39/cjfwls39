@@ -62,6 +62,7 @@
 ![Spring](https://img.shields.io/badge/Spring-C8FFD4?style=for-the-badge&logo=spring&logoColor=555)
 ![JSP](https://img.shields.io/badge/JSP-FFF3B8?style=for-the-badge&logo=openjdk&logoColor=555)
 ![MySQL](https://img.shields.io/badge/MySQL-C8D8FF?style=for-the-badge&logo=mysql&logoColor=555)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
  
 </div>
 
