@@ -9,11 +9,11 @@
 
 ---
 
-### 🌸 Projects · 프로젝트(준비중!)
+### 🌸 Projects · 프로젝트
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌊__포트폴리오_구경하기_·_Visit_my_Portfolio_→-C4B5FD?style=for-the-badge&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/🌊__포트폴리오_구경하기_·_Visit_my_Portfolio_→-C4B5FD?style=for-the-badge&logoColor=white)](https://my-room-ruddy.vercel.app/)
 
 </div>
 
