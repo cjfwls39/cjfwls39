@@ -31,39 +31,39 @@
 ---
 
 ### 💜 Tech Stack · 기술 스택
- 
+
 <div align="center">
-  
+
 **Frontend**
- 
-![HTML5](https://img.shields.io/badge/HTML5-FFD6EC?style=for-the-badge&logo=html5&logoColor=555)
-![CSS3](https://img.shields.io/badge/CSS3-C9B8FF?style=for-the-badge&logo=css3&logoColor=555)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-B8F0FF?style=for-the-badge&logo=tailwindcss&logoColor=555)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF3B8?style=for-the-badge&logo=javascript&logoColor=555)
-![TypeScript](https://img.shields.io/badge/TypeScript-B8D4FF?style=for-the-badge&logo=typescript&logoColor=555)
- 
+
+![HTML5](./assets/badges/html5.svg)
+![CSS3](./assets/badges/css3.svg)
+![Tailwind](./assets/badges/tailwind.svg)
+![JavaScript](./assets/badges/javascript.svg)
+![TypeScript](./assets/badges/typescript.svg)
+
 **Frameworks & Libraries**
- 
-![React](https://img.shields.io/badge/React-C9B8FF?style=for-the-badge&logo=react&logoColor=555)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-B8D4FF?style=for-the-badge&logo=electron&logoColor=555)
-![Tauri](https://img.shields.io/badge/Tauri-B8F0FF?style=for-the-badge&logo=tauri&logoColor=555)
- 
+
+![React](./assets/badges/react.svg)
+![Next.js](./assets/badges/nextjs.svg)
+![Three.js](./assets/badges/threejs.svg)
+![Electron](./assets/badges/electron.svg)
+![Tauri](./assets/badges/tauri.svg)
+
 **DevOps**
- 
-![AWS](https://img.shields.io/badge/AWS-FFE4B8?style=for-the-badge&logo=amazonaws&logoColor=555)
-![Render](https://img.shields.io/badge/Render-C8FFD4?style=for-the-badge&logo=render&logoColor=555)
- 
+
+![AWS](./assets/badges/aws.svg)
+![Render](./assets/badges/render.svg)
+
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-C8FFD4?style=for-the-badge&logo=nodedotjs&logoColor=555)
-![Java](https://img.shields.io/badge/Java-FFD6EC?style=for-the-badge&logo=openjdk&logoColor=555)
-![Spring](https://img.shields.io/badge/Spring-C8FFD4?style=for-the-badge&logo=spring&logoColor=555)
-![JSP](https://img.shields.io/badge/JSP-FFF3B8?style=for-the-badge&logo=openjdk&logoColor=555)
-![MySQL](https://img.shields.io/badge/MySQL-C8D8FF?style=for-the-badge&logo=mysql&logoColor=555)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
- 
+![Node.js](./assets/badges/nodejs.svg)
+![Java](./assets/badges/java.svg)
+![Spring](./assets/badges/spring.svg)
+![JSP](./assets/badges/jsp.svg)
+![MySQL](./assets/badges/mysql.svg)
+![Supabase](./assets/badges/supabase.svg)
+
 </div>
 
 ---
