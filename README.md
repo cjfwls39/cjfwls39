@@ -22,10 +22,9 @@
 ### 🔗 Connect · 연락하기
 
 <div align="center">
-  
-[![Phone](https://img.shields.io/badge/010--8464--6539-C8FFD4?style=for-the-badge)](tel:01000000000)
-[![Email](https://img.shields.io/badge/Email-FBCFE8?style=for-the-badge&logo=naver&logoColor=555)](mailto:cjfwls39@naver.com)
- 
+
+📞&nbsp; [010-8464-6539](tel:01000000000) &nbsp;&nbsp;&nbsp;&nbsp; 📧&nbsp; [cjfwls39@naver.com](mailto:cjfwls39@naver.com)
+
 </div>
 
 ---
