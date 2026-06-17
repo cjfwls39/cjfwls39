@@ -23,8 +23,8 @@
 
 <div align="center">
   
-[![Phone](https://img.shields.io/badge/📞_010--8464--6539-C8FFD4?style=for-the-badge)](tel:01000000000)
-[![Email](https://img.shields.io/badge/이메일_·_Email-FBCFE8?style=for-the-badge&logo=gmail&logoColor=555)](mailto:cjfwls39@naver.com)
+[![Phone](https://img.shields.io/badge/010--8464--6539-C8FFD4?style=for-the-badge)](tel:01000000000)
+[![Email](https://img.shields.io/badge/Email-FBCFE8?style=for-the-badge&logo=naver&logoColor=555)](mailto:cjfwls39@naver.com)
  
 </div>
 
