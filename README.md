@@ -36,33 +36,33 @@
 
 **Frontend**
 
-![HTML5](./assets/badges/html5.svg)
-![CSS3](./assets/badges/css3.svg)
-![Tailwind](./assets/badges/tailwind.svg)
-![JavaScript](./assets/badges/javascript.svg)
-![TypeScript](./assets/badges/typescript.svg)
+![HTML5](./assets/badges/badges/html5.svg)
+![CSS3](./assets/badges/badges/css3.svg)
+![Tailwind](./assets/badges/badges/tailwind.svg)
+![JavaScript](./assets/badges/badges/javascript.svg)
+![TypeScript](./assets/badges/badges/typescript.svg)
 
 **Frameworks & Libraries**
 
-![React](./assets/badges/react.svg)
-![Next.js](./assets/badges/nextjs.svg)
-![Three.js](./assets/badges/threejs.svg)
-![Electron](./assets/badges/electron.svg)
-![Tauri](./assets/badges/tauri.svg)
+![React](./assets/badges/badges/react.svg)
+![Next.js](./assets/badges/badges/nextjs.svg)
+![Three.js](./assets/badges/badges/threejs.svg)
+![Electron](./assets/badges/badges/electron.svg)
+![Tauri](./assets/badges/badges/tauri.svg)
 
 **DevOps**
 
-![AWS](./assets/badges/aws.svg)
-![Render](./assets/badges/render.svg)
+![AWS](./assets/badges/badges/aws.svg)
+![Render](./assets/badges/badges/render.svg)
 
 **Backend**
 
-![Node.js](./assets/badges/nodejs.svg)
-![Java](./assets/badges/java.svg)
-![Spring](./assets/badges/spring.svg)
-![JSP](./assets/badges/jsp.svg)
-![MySQL](./assets/badges/mysql.svg)
-![Supabase](./assets/badges/supabase.svg)
+![Node.js](./assets/badges/badges/nodejs.svg)
+![Java](./assets/badges/badges/java.svg)
+![Spring](./assets/badges/badges/spring.svg)
+![JSP](./assets/badges/badges/jsp.svg)
+![MySQL](./assets/badges/badges/mysql.svg)
+![Supabase](./assets/badges/badges/supabase.svg)
 
 </div>
 
