@@ -23,7 +23,7 @@
 
 <div align="center">
 
-📞&nbsp; [010-8464-6539](tel:01000000000) &nbsp;&nbsp;&nbsp;&nbsp; 📧&nbsp; [cjfwls39@naver.com](mailto:cjfwls39@naver.com)
+📞&nbsp; [010-8464-6539](tel:01000000000) &nbsp;&nbsp;&nbsp;&nbsp; 📧&nbsp; [cheoljin.dev@gmail.com](mailto:cheoljin.dev@gmail.com)
 
 </div>
 
