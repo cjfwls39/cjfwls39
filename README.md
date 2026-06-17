@@ -45,19 +45,18 @@
 **Frameworks & Libraries**
  
 ![React](https://img.shields.io/badge/React-C9B8FF?style=for-the-badge&logo=react&logoColor=555)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-B8D4FF?style=for-the-badge&logo=electron&logoColor=555)
 ![Tauri](https://img.shields.io/badge/Tauri-B8F0FF?style=for-the-badge&logo=tauri&logoColor=555)
  
 **DevOps**
  
-![AWS](https://img.shields.io/badge/AWS-FFE4B8?style=for-the-badge&logo=amazonwebservices&logoColor=555)
+![AWS](https://img.shields.io/badge/AWS-FFE4B8?style=for-the-badge&logo=amazonaws&logoColor=555)
 ![Render](https://img.shields.io/badge/Render-C8FFD4?style=for-the-badge&logo=render&logoColor=555)
  
 **Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-C8FFD4?style=for-the-badge&logo=node.js&logoColor=555)
+![Node.js](https://img.shields.io/badge/Node.js-C8FFD4?style=for-the-badge&logo=nodedotjs&logoColor=555)
 ![Java](https://img.shields.io/badge/Java-FFD6EC?style=for-the-badge&logo=openjdk&logoColor=555)
 ![Spring](https://img.shields.io/badge/Spring-C8FFD4?style=for-the-badge&logo=spring&logoColor=555)
 ![JSP](https://img.shields.io/badge/JSP-FFF3B8?style=for-the-badge&logo=openjdk&logoColor=555)
